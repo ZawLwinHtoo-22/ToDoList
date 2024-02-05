@@ -1,0 +1,23 @@
+.btn {
+    &__section {
+        display: flex;
+        margin: 10px;
+        gap: 10px;
+
+        &--de {
+            padding: 10px;
+            border-radius: 5px;
+        }
+    }
+
+    &__additem {
+        display: flex;
+        margin-bottom: 10px;
+        padding: 10px;
+        width: 80px;
+        justify-content: center;
+        background-color: black;
+        color: white;
+        border-radius: 10px;
+    }
+}

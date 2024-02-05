@@ -1,0 +1,46 @@
+.btn__section {
+  display: flex;
+  margin: 10px;
+  gap: 10px;
+}
+.btn__section--de {
+  padding: 10px;
+  border-radius: 5px;
+}
+.btn__additem {
+  display: flex;
+  margin-bottom: 10px;
+  padding: 10px;
+  width: 80px;
+  justify-content: center;
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+}
+
+.input-type {
+  height: 40px;
+  display: flex;
+  width: 1183px;
+}
+
+.section__one {
+  display: flex;
+  justify-content: space-between;
+  background-color: gray;
+  margin-bottom: 10px;
+  padding: 0px 30px 0px 30px;
+}
+.section__two {
+  display: flex;
+  justify-content: space-between;
+  background-color: gray;
+  margin-bottom: 10px;
+  padding: 0px 30px 0px 30px;
+}
+.section__three {
+  display: flex;
+  justify-content: space-between;
+  background-color: gray;
+  padding: 0px 30px 0px 30px;
+}/*# sourceMappingURL=style.css.map */
